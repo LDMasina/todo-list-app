@@ -21,6 +21,7 @@ This is my simple To-Do List application built with React and TypeScript. The ap
 I gladly welcome any feedback or ways that I could refactor some of the syntaxes. Feel free to ping me a DM or follow below.
 
 ### Follow Me
+
 - **GitHub:** https://github.com/LDMasina
 - **Instagram:** https://instagram.com/lancemasina
 - **LinkedIn:** https://linkedin.com/in/lancemasina
