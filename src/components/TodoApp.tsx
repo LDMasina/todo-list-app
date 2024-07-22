@@ -43,7 +43,7 @@ const TodoApp: React.FC = () => {
 
   return (
     <div>
-      <h1>GIDHub (Get It Done)</h1>
+      <h1>GIDHub: Get It Done Hub</h1>
       <TodoForm addTodo={addTodo} />
       <TodoList
         todos={todos}
