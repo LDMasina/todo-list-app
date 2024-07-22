@@ -1,4 +1,3 @@
-// src/components/TodoApp.tsx
 import React, { useState, useEffect } from 'react';
 import TodoList from './TodoList';
 import TodoForm from './TodoForm';

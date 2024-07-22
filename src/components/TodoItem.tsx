@@ -1,4 +1,3 @@
-// src/components/TodoItem.tsx
 import React, { useState } from 'react';
 
 interface Todo {
