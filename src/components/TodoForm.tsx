@@ -21,8 +21,9 @@ const TodoForm: React.FC<Props> = ({ addTodo }) => {
         type="text"
         value={text}
         onChange={e => setText(e.target.value)}
+        placeholder="Add taskname here..."
       />
-      <button type="submit">Add Todo</button>
+      <button type="submit">Add</button>
     </form>
   );
 };
